@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+Twenty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/Emman-Lopez-Oso/myadu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
 
-### Markdown
+As the name implies, this is my twentieth (!) design for HTML5 UP. Since the last
+few have been single page affairs, I decided to go with something a bit more conventional
+and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
+built on HTML5/CSS3, and CCA licensed like all my other stuff. Sass sources are also
+included for those of you into that sort of thing (entirely optional).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
+his excellent photos in Twenty's demo*.
 
-```markdown
-Syntax highlighted code block
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michael's work without his explicit permission!)
 
-# Header 1
-## Header 2
-### Header 3
+AJ
+aj@lkn.io | @ajlkn
 
-- Bulleted
-- List
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Credits:
 
-[Link](url) and ![Image](src)
-```
+	Demo Images:
+		Michael Domaradzki (md.photomerchant.net)
+			"Night Vision"
+			"At the Station II"
+			"Airchitecture II"
+			"Livewires II"
+			"Midnite Xpress I"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	Icons:
+		Font Awesome (fontawesome.io)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emman-Lopez-Oso/myadu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
